@@ -4,7 +4,7 @@ import math as mh
 import time as ti
 import random as rm
 import copy
-
+#хуй соси губой тряси print ("Hello World")
 # region Глобальные переменные
 wname = 'Guardian Station'  # Название окна
 shipsize = 4                # Количество кораблей (пока не использовалось)                   
